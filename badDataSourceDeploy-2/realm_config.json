@@ -1,0 +1,7 @@
+{
+    "app_id": "baddatasourcedeploy-2-fmlfp",
+    "config_version": 20210101,
+    "name": "badDataSourceDeploy-2",
+    "location": "US-VA",
+    "deployment_model": "GLOBAL"
+}
